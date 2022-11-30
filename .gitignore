@@ -11,7 +11,6 @@
 *.class
 
 # Generated files
-bin/
 gen/
 out/
 #  Uncomment the following line in case you need and you don't have the release build type files in your app
@@ -44,6 +43,10 @@ captures/
 .idea/assetWizardSettings.xml
 .idea/dictionaries
 .idea/libraries
+.idea/shelf/
+.idea/.name
+.idea/compiler.xml
+.idea/misc.xml
 # Android Studio 3 in .gitignore file.
 .idea/caches
 .idea/modules.xml
@@ -83,3 +86,5 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+app/build

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_task_listing">My Tasks</string>
+    <string name="menu_task_creation">New task</string>
+    <string name="menu_recycle_bin">Bin</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+</resources>

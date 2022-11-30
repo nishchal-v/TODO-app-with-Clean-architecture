@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/task_listing"
+            android:icon="@drawable/ic_task_list"
+            android:title="@string/menu_task_listing" />
+        <item
+            android:id="@+id/task_creation"
+            android:icon="@drawable/ic_task_creation"
+            android:title="@string/menu_task_creation" />
+        <item
+            android:id="@+id/bin"
+            android:icon="@drawable/ic_bin"
+            android:title="@string/menu_recycle_bin" />
+    </group>
+</menu>
